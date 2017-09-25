@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arithmetic Operations</string>
+    <string name="altura">Height</string>
+    <string name="areas">Areas</string>
+    <string name="base">Base</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="circulo">Circle</string>
+    <string name="cono">Cone</string>
+    <string name="cuadrado">Square</string>
+    <string name="error">Please type the data!</string>
+    <string name="cubo">Cube</string>
+    <string name="datos">Data</string>
+    <string name="esfera">Sphere</string>
+    <string name="numero">No.</string>
+    <string name="operacion">Operation</string>
+    <string name="operacion1">Square Area</string>
+    <string name="operacion2">Rectangle Area</string>
+    <string name="operacion3">Triangle Area</string>
+    <string name="operacion4">Circle Area</string>
+    <string name="operacion5">Volume of the Sphere</string>
+    <string name="operacion6">Cylinder Volume</string>
+    <string name="operacion7">Cone Volume</string>
+    <string name="operacion8">Cube Volume</string>
+    <string name="operacionesRealizadas">Operations Perfomed</string>
+    <string name="radio">Radio</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="resultados">Results</string>
+    <string name="triangulo">Triangle</string>
+    <string name="valorLados">Value Sides</string>
+    <string name="volumen">Volumes</string>
+    <string name="total">Result</string>
+    <string name="error_cero">Please type a number greater than zero</string>
+</resources>

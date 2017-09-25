@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Operaciones Aritmeticas</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="radio">Radio</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="circulo">Circulo</string>
+    <string name="cono">Cono</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="areas">Areas</string>
+    <string name="valorLados">Valor Lados</string>
+    <string name="cubo">Cubo</string>
+    <string name="esfera">Esfera</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="base">Base</string>
+    <string name="resultados">Resultados</string>
+    <string name="numero">N°</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="volumen">Volumenes</string>
+    <string name="operacionesRealizadas">Operaciones Realizadas</string>
+    <string name="operacion1">Área del Cuadrado</string>
+    <string name="operacion2">Área del Rectángulo</string>
+    <string name="operacion3">Área del Triángulo</string>
+    <string name="operacion4">Área del Circulo</string>
+    <string name="operacion5">Volumen de la Esfera</string>
+    <string name="operacion6">Volumen del Cilindro</string>
+    <string name="operacion7">Volumen del Cono</string>
+    <string name="operacion8">Volumen del Cubo</string>
+    <string name="error">Por favor digite los datos!</string>
+    <string name="error_cero">Por favor digite un numero mayor a cero</string>
+    <string name="total">Resultado</string>
+    <string-array name="lstOpciones">
+        <item>@string/areas</item>
+        <item>@string/volumen</item>
+        <item>@string/operacionesRealizadas</item>
+    </string-array>
+    <string-array name="lstAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string-array name="lstVolumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
